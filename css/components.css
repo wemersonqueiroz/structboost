@@ -1,6 +1,6 @@
 .btn-primary {
   padding: 1.6rem 2.4rem;
-  background-color: var(--pink-10);
+  background-color: var(--primary-color);
   color: var(--gray-900);
   font-size: 1.6rem;
   font-weight: 600;
@@ -10,10 +10,10 @@
   transition-duration: 100ms;
 
   &:hover {
-    background-color: var(--pink-20);
+    background-color: var(--secondary-color);
   }
   &:active {
-    background-color: var(--pink-30);
+    background-color: var(--accent-color);
   }
 }
 

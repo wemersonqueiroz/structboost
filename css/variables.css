@@ -1,7 +1,15 @@
 :root {
-  --pink-10: #f67acb;
-  --pink-20: #cf62a9;
-  --pink-30: #9d457f;
+  --primary-color: #1f4978;
+  --secondary-color: #153654;
+  --accent-color: #0c2330;
+
+  /* 
+  Pink Theme
+  --primary-color: #f67acb;
+  --secondary-color: #cf62a9;
+  --accent-color: #9d457f;
+  */
+
   --gray-900: #0a0b0d;
   --gray-800: #393b42;
   --gray-700: #5c5f69;
